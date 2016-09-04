@@ -1,2 +1,6 @@
-# pixijs_aircraft
-飛機射擊遊戲練習
+飛機遊戲練習(aircraft)
+=========================
+### 演示
+[線上觀看](http://virtools.github.io/pixijs_aircraft/)
+### 許可
+MIT

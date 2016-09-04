@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+}
+
+
+#Box01{
+    position: absolute;
+    display: block;
+    width: 40px;
+    height: 40px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    box-sizing: border-box;
+    /*transform: translate(-50%,-50%);*/
+}
